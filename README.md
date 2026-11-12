@@ -11,7 +11,7 @@
 *Turning data into insights, intelligent applications, and practical solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakia-nowshin)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakianowshin3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jn.nova03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
