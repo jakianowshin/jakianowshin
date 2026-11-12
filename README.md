@@ -1,177 +1,213 @@
-# Hi there, I'm Jakia! 👋
+<div align="center">
 
-### 🎓 Data Science & Analytics | 🤖 Machine Learning & AI | 📊 Business Intelligence
+# Hi, I'm Jakia Nowshin! 👋
+
+### Data Science & Analytics • Machine Learning • Business Intelligence
+
+**MSc in Data Science & Analytics | Toronto Metropolitan University**
 
 📍 Toronto, Canada
 
-I'm a Data Science & Analytics graduate with a background in Computer Science and software development. I enjoy transforming complex data into meaningful insights, building intelligent applications, and solving real-world problems.
+*Turning data into insights, intelligent applications, and practical solutions.*
 
-My work spans **machine learning, NLP, recommendation systems, business analytics, and data visualization**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakia-nowshin)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakianowshin3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Recently completed my **MSc in Data Science & Analytics** at Toronto Metropolitan University.
-- 🧠 Interested in **Machine Learning, NLP, AI Applications, and Recommendation Systems**.
-- 📊 Experienced in **Data Analytics, Business Intelligence, and Dashboard Development**.
-- 💻 Background in **Software Development, REST APIs, and Database Management**.
-- 🚀 Passionate about developing practical, data-driven solutions.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 A Little About Me
 
-### Programming & Data
+I'm a recent **MSc Data Science & Analytics graduate** with a background in Computer Science and software development.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I enjoy working at the intersection of **data, technology, and real-world problem-solving**. My projects range from building intelligent news recommendation systems to analyzing business operations and creating interactive dashboards.
 
-### Machine Learning & NLP
+- 🤖 **AI & ML:** NLP, semantic search, recommendation systems, predictive modeling
+- 📊 **Analytics:** SQL, Power BI, Excel, data visualization, KPI analysis
+- 💻 **Development:** Python, Java, REST APIs, database design
+- 🌱 **Currently exploring:** Applied AI, advanced analytics, and scalable data solutions
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+---
 
-**Additional Skills:** BERTweet, BGE Embeddings, Semantic Retrieval, MMR, Cross-Validation, Macro-F1, ROC-AUC, SHAP, Feature Ablation
+## 🛠️ My Tech Toolbox
 
-### Data Analytics & Business Intelligence
+<div align="center">
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+### Languages & Data
 
-**Additional Skills:** Power Query, Power Pivot, DAX, Pivot Tables, XLOOKUP, KPI Tracking, Data Modeling, Performance Reporting, Data Validation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Development & Tools
+### Machine Learning & AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 
-**Additional Tools:** Hive SQL, PySpark, Hadoop, REST APIs, Java, Spring Boot, HubSpot CRM
+`NLP` `BERTweet` `BGE Embeddings` `Semantic Retrieval` `MMR` `SHAP` `Model Evaluation`
+
+### Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+
+`Power Query` `Power Pivot` `DAX` `KPI Development` `Data Modeling`
+
+### Big Data & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+`Hive SQL` `PySpark` `Hadoop` `Spring Boot` `REST APIs`
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📰 Beyond the Feed — Hybrid News Recommendation System
-**November 2026 | Python, Streamlit, BGE Embeddings, NLP, MMR**
+### 📰 [Beyond the Feed — Hybrid News Recommendation System](https://github.com/data-bees-team/beyond-the-feed)
 
-Developed a personalized news recommendation system using **15,395 GDELT news articles**.
+**Python · Streamlit · NLP · BGE Embeddings · MMR**
 
-- Combined topic relevance, semantic embeddings, and user feedback for hybrid retrieval and ranking.
-- Implemented Maximal Marginal Relevance (MMR) to reduce geographic and publisher redundancy.
-- Built a multi-user Streamlit application with personalized feeds and interactive evaluation dashboards.
-- Compared top-10 recommendations with a topic-based baseline to demonstrate broader topic, country, and publisher coverage.
+A personalized, diversity-aware news recommendation system built using **15,395 GDELT news articles**.
 
-### 🔍 Early Misinformation Detection — Master's Research Project
-**September 2026 | Python, PyTorch, BERTweet, XGBoost, SHAP**
+- Combined topic relevance, semantic embeddings, and user feedback for personalized ranking.
+- Applied MMR to reduce geographic and publisher redundancy.
+- Developed a multi-user Streamlit application with interactive evaluation dashboards.
+- Compared hybrid recommendations with a topic-based baseline to assess diversity and relevance.
+
+[![View Code](https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/data-bees-team/beyond-the-feed)
+
+---
+
+### 🍽️ [Toronto DineSafe Analytics — Power BI Dashboard](https://github.com/jakianowshin/toronto-food-safety-powerbi)
+
+**Power BI · Power Query · DAX**
+
+Analyzed approximately **79,000 restaurant inspections across 19,000 establishments**.
+
+- Built an interactive dashboard exploring inspection outcomes and geographic trends.
+- Tracked a **94% pass rate**, **5.9% conditional pass rate**, and approximately **23,000 significant infractions**.
+- Used Power Query and DAX for data transformation and KPI development.
+
+[![View Code](https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/jakianowshin/toronto-food-safety-powerbi)
+
+---
+
+### 🏎️ [Formula 1 Performance & Race Strategy Analysis](https://github.com/jakianowshin/formula1_excel_analytics)
+
+**Excel · Power Pivot · Data Modeling**
+
+Created an interactive Excel analytics dashboard with **6 KPI visualizations**.
+
+- Analyzed driver performance, race reliability, and operational efficiency.
+- Identified a **28.7% win rate for Verstappen**.
+- Explored starting-grid performance, pit-stop durations, and historical mechanical failures.
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/jakianowshin/formula1_excel_analytics)
+
+---
+
+### 📊 [Claims Processing Analytics — Big Data](https://github.com/jakianowshin/claims-processing-bigdata)
+
+**Hive SQL · Python · Hadoop · PySpark**
+
+Analyzed approximately **4,500 insurance claims** to identify operational patterns.
+
+- Coordinated team activities and performed data cleaning and preparation.
+- Used Hive SQL for segmentation, risk classification, and claims analysis.
+- Identified a **95th-percentile claim value of $9,510.27** and a **36% denial rate among the top 5% of claims**.
+
+[![View Code](https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/jakianowshin/claims-processing-bigdata)
+
+---
+
+### 🔍 [Early Misinformation Detection — Master's Research](https://github.com/jakianowshin/mrp_misinformation)
+
+**Python · PyTorch · BERTweet · XGBoost · SHAP**
 
 Investigated early misinformation detection using **94,395 tweets across 5,802 conversation threads**.
 
-- Built an end-to-end machine learning pipeline using BERTweet embeddings and engineered features.
-- Achieved **0.714 Macro-F1** with XGBoost using source information at publication.
-- Fine-tuned BERTweet, achieving approximately **0.748 Macro-F1** using source-only information.
-- Applied SHAP and feature ablation, identifying source semantics as the dominant predictive signal.
+- Developed an end-to-end machine learning pipeline integrating BERTweet embeddings and engineered features.
+- Achieved approximately **0.748 Macro-F1** using fine-tuned BERTweet on source-only information.
+- Applied SHAP and feature ablation to interpret predictive signals.
 
-### 🍽️ Toronto DineSafe Analytics
-**September 2026 | Power BI, Power Query, DAX**
-
-Built an interactive dashboard analyzing approximately **79,000 restaurant inspections across 19,000 establishments**.
-
-- Explored inspection outcomes, geographic patterns, and food safety trends.
-- Developed DAX measures tracking a **94% pass rate** and **5.9% conditional pass rate**.
-- Analyzed approximately **23,000 significant infractions**.
-
-### 🏎️ Formula 1 Performance & Race Strategy Analysis
-**September 2026 | Excel, Power Pivot, Data Modeling**
-
-Developed an Excel dashboard with **6 KPI visualizations**.
-
-- Analyzed driver performance, race reliability, and operational trends.
-- Identified a **28.7% win rate for Verstappen**.
-- Evaluated starting-grid performance and pit-stop efficiency.
-- Investigated historical mechanical failure trends.
-
-### 📊 Claims Processing Analytics
-**December 2025 | Python, Hive SQL, Data Analysis**
-
-Analyzed approximately **4,500 insurance claims** to identify operational patterns and risk factors.
-
-- Coordinated team activities, data preparation, and analysis.
-- Performed Hive SQL analysis for customer segmentation and risk classification.
-- Identified a **95th-percentile claim value of $9,510.27**.
-- Found a **36% denial rate among the top 5% of claims**.
+[![View Research](https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/jakianowshin/mrp_misinformation)
 
 ---
 
 ## 🎓 Education & Academic Achievements
 
-### 🎓 Toronto Metropolitan University
-**Master of Science (MSc) in Data Science & Analytics**
+### Toronto Metropolitan University 🇨🇦
 
-📍 Toronto, Canada | August 2025 – October 2026
-
-
-**🏆 Academic Awards**
-- Toronto Metropolitan University Graduate Fellowship (TMGF) — CAD $2,000
-- Toronto Metropolitan University Graduate Development Award (TMGDA) — CAD $1,100 per term for two terms
-
-**Relevant Coursework**
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Management of Big Data & Tools
-- Data Mining and Prescriptive Analytics
-- Design of Algorithms and Programming
-
-### 🎓 BRAC University
-**Bachelor of Science (BSc) in Computer Science & Engineering**
-
-📍 Dhaka, Bangladesh | September 2015 – April 2020
+**Master of Science in Data Science & Analytics**  
+*August 2025 – October 2026*
 
 
-**Undergraduate Research**
--Conducted undergraduate thesis research in machine learning.
--Built foundational knowledge in software engineering, algorithms, databases, and programming.
+🏆 **Academic Awards**
+- TMU Graduate Fellowship (TMGF) 
+- TMU Graduate Development Award (TMGDA)
+
+**Relevant Coursework:** Machine Learning, Deep Learning, Natural Language Processing, Big Data Management, Data Mining & Prescriptive Analytics, Algorithms & Programming.
+
+### BRAC University 🇧🇩
+
+**Bachelor of Science in Computer Science & Engineering**  
+*September 2015 – April 2020*
+
+
 ---
 
 ## 💼 Professional Experience
 
-### Mobile Application Developer
-**IT Bangla Ltd | January 2021 – September 2021**
+| Role | Organization | Period |
+|---|---|---|
+| Mobile Application Developer | IT Bangla Ltd | Jan – Sep 2021 |
+| Sales Representative | Synic Software | Jan – Jun 2023 |
 
--Engaged in the full project life cycle including analyzing, designing, development, and testing phases.
--Implemented MySQL database to store user's data.
--Responsible for a good UI design using ListView, ScrollView, ActionBar, WebPage, GraphView etc.
--Experience in building REST APIs using Java and Spring Boot.
--Implemented JSON parsing for data interchange between web service and mobile application.
--Understood client application requirements and added necessary specifications to promote customer satisfaction.
+**Mobile Application Development**
+- Developed Android interfaces using Java and supported application testing and debugging.
+- Designed MySQL databases and developed REST APIs using Spring Boot.
+- Implemented JSON-based communication between applications and backend services.
 
-### Sales Representative
-**Synic Software | January 2023 – June 2023**
-
--Proactively generated leads through networking, cold emailing, and relationship-building with prospective businesses.
--Scheduled and coordinated client appointments with the sales manager to facilitate deal closures.
--Collected and organized essential client documents and information to support the sales process.
--Maintained accurate and up-to-date customer profiles using CRM software, enabling personalized communication and streamlined follow-ups.
--Leveraged CRM analytics and customer data to support data-driven decision-making, improve client engagement, and identify sales opportunities.
-
-## 📫 Let's Connect
-
-I'm interested in opportunities involving **Data Science, Data Analytics, Machine Learning, Business Intelligence, and AI Applications**.
-
-📧 **Email:** jakianowshin3@gmail.com
-
-💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/jakia-nowshin)
-
-
+**Sales & Business Operations**
+- Generated leads and supported client relationship management.
+- Maintained customer information using HubSpot CRM.
+- Used CRM analytics to identify opportunities and support client engagement.
 
 ---
 
-*Thank you for visiting my GitHub profile! ✨*
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jakianowshin&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jakianowshin&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+I'm interested in opportunities involving **Data Science, Data Analytics, Machine Learning, Business Intelligence, and Applied AI**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakia-nowshin)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakianowshin3@gmail.com)
+
+*Thanks for stopping by! ✨*
+
+</div>
